@@ -23,7 +23,7 @@ const I18N={
   trust3_t:"Atendimento direto", trust3_s:"Sem intermediário",
   
   prob_eye:"O problema", prob_h2:"Sua agenda tem buracos?",
-  prob_intro:"Você é excelente no consultório. O problema raramente é a medicina. É como o paciente te encontra, avalia sua credibilidade e decide marcar. No digital, quem não aparece, não é lembrado.",
+  prob_intro:"A maioria dos pacientes conhece você pela internet antes de conhecê-lo pessoalmente. O que eles encontram pode ser o motivo para agendar, ou não, uma consulta.",
   pain1_h:"Indicação não enche agenda",
   pain1_p:"Você depende do boca a boca, e ele é imprevisível. Um mês cheio, o outro vazio. Sem um fluxo constante de novos pacientes, fica difícil planejar o crescimento do consultório, contratar equipe, investir em equipamentos.",
   pain2_h:"Medo de infringir o CFM",
