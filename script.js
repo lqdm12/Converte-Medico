@@ -130,7 +130,7 @@ const I18N={
   plan3_f3:"Estratégia dedicada", plan3_f4:"Acompanhamento próximo",
   plan3_f5:"Gestão completa de redes sociais", plan3_f6:"Consultoria mensal de posicionamento",
   plan_cta:"Falar no WhatsApp",
-  plans_note:"Não tem contrato de fidelidade. Não tem letra pequena. Se não estiver satisfeito, a gente conversa antes de qualquer coisa.",
+  plans_note:"",
 
   faq_eye:"Dúvidas Frequentes", faq_h2:"FAQ",
   faq_intro:"Reunimos as dúvidas mais comuns que recebemos no diagnóstico gratuito. Se a sua não estiver aqui, é só chamar no WhatsApp.",
