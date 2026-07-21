@@ -109,10 +109,10 @@ const I18N={
   proof_q:'Marketing que mostra <span class="hl">competência</span>, sem prometer milagre.',
   proof_auth:"Time com formação clínica validando cada peça que vai ao ar.",
 
-  price_eye:"Planos", price_h2:"Comece pequeno e cresça",
-  price_intro:"Escolha o ponto de partida. Sem fidelidade abusiva, com clareza do começo ao fim. Todos os planos incluem suporte humano e relatórios mensais.",
+  price_eye:"Planos", price_h2:"Soluções pensadas para cada etapa do seu crescimento",
+  price_intro:"Do primeiro passo no digital à consolidação da sua marca, oferecemos planos personalizados para atender às necessidades do seu consultório.",
   plan1_n:"Essencial",
-  plan1_d:"Uma landing page de alta conversão, conforme CFM, integrada ao seu WhatsApp. Ideal para quem está começando.",
+  plan1_d:"Ideal para quem está começando.",
   plan1_per:"projeto único",
   plan1_f1:"Página única otimizada", plan1_f2:"Copywriting que converte",
   plan1_f3:"Conforme CFM e LGPD", plan1_f4:"Integração com WhatsApp",
