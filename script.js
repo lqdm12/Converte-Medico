@@ -206,7 +206,7 @@ const I18N={
   sol_eye:"For those starting out", sol_h2:"You don't need to wait for your clinic to grow to start building your brand.",
   sol_p1:"Converte teaches you the full strategy for building your digital presence, but also shows how to position yourself to attract your first patients, present your services, close appointments and build your authority in the market.",
 
-  how_eye:"How it works", how_h2:"From briefing to booked patient",
+  how_eye:"Benefits", how_h2:"From briefing to booked patient",
   how_intro:"A simple, transparent process with no black boxes. You follow every step, approve everything before it goes live, and receive clear reports on what's working.",
   step1_h:"Strategic briefing",
   step1_p:"We understand your specialty, audience, differentials and the specific rules of your council. We map opportunities and set clear goals.",
