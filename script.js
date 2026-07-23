@@ -83,9 +83,6 @@ const I18N={
   port4_tag:"Pediatria", port4_h:"Clínica Pediátrica",
   port4_p:"Site responsivo com área dedicada aos pais, calendário de vacinas interativo e integração com Google Meu Negócio. Avaliações no Google passaram de 4.2 para 4.9 estrelas.",
 
-  team_eye:"Quem somos", team_h2:"Gente real por trás da Converte Médico",
-  team_intro:"Somos um time pequeno, de propósito. Cada um de nós traz uma peça diferente: vendas, comunicação, estratégia e tecnologia. Juntos, a gente entende o que o médico precisa porque conversa com médico todo dia.",
-
   proof_eye:"Por que confiar", proof_h2:"Processo claro, sem caixa-preta",
   proof_p1:"Estamos começando com poucos clientes selecionados, de propósito. Você fala direto com quem entende de saúde, acompanha cada etapa e aprova tudo antes de ir ao ar, sempre dentro do CFM e da LGPD.",
   proof_p2:"Não trabalhamos com promessas vazias nem métricas infladas. Cada relatório mostra o que realmente importa: quantas pessoas viram sua página, quantas entraram em contato e quantas agendaram. Transparência total do início ao fim.",
@@ -227,9 +224,6 @@ const I18N={
   port3_p:"Capture page with before-and-after (per CFO rules), video testimonials and automated booking flow. Cost per lead reduced by 45%.",
   port4_tag:"Pediatrics", port4_h:"Pediatric Clinic",
   port4_p:"Responsive site with dedicated parents area, interactive vaccination calendar and Google My Business integration. Google reviews went from 4.2 to 4.9 stars.",
-
-  team_eye:"Who we are", team_h2:"Real people behind Converte Médico",
-  team_intro:"We're a small team, on purpose. Each of us brings a different piece: sales, communication, strategy and technology. Together, we understand what doctors need because we talk to doctors every day.",
 
   proof_eye:"Why trust us", proof_h2:"Clear process, no black box",
   proof_p1:"We're starting with a few selected clients, on purpose. You talk directly to people who understand healthcare, follow every step and approve everything before it goes live, always within CFM and LGPD.",
