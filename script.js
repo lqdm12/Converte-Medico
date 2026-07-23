@@ -60,8 +60,8 @@ const I18N={
   svc6_l3:"Sessões mensais de orientação", svc6_l4:"Acompanhamento de metas",
   svc_cta:"Falar com a gente",
 
-  sol_eye:"A solução", sol_h2:"O polvo do marketing médico",
-  sol_p1:"Um polvo coordena oito braços ao mesmo tempo, com inteligência. É assim que a gente trabalha: oito canais puxando paciente para a sua página, todos integrados e dentro do CFM.",
+  sol_eye:"Para quem está começando", sol_h2:"Você não precisa esperar seu consultório crescer para começar a construir sua marca",
+  sol_p1:"A Converte te ensina toda a estratégia para a construção da sua  presença digital, mas também mostra como se posicionar para atrair seus primeiros pacientes, apresentar seus serviços, fechar consultas e construir sua autoridade nesse marcado.",
   sol_p2:"Não adianta ter um site bonito se ninguém chega até ele. Não adianta ter seguidores se eles não viram pacientes. A Converte conecta todos os pontos: do primeiro clique ao agendamento no seu WhatsApp, com relatórios claros e transparência total.",
   sol_quote:'"Um polvo não é engraçado. É a melhor metáfora que a gente encontrou para descrever como canais diferentes precisam trabalhar juntos, com inteligência, puxando o mesmo paciente para a mesma direção."',
   sol_quote_a:"Emilly Pinheiros, Diretora de Marketing",
