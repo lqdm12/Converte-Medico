@@ -12,7 +12,7 @@
 @layer componentes {
 
 .dp{
-  background: var(--dp-fundo);
+  background: /*var(--dp-fundo)*/;
   color: var(--dp-texto);
   padding: 96px 0;
   font-family: var(--fd);
