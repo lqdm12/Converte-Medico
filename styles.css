@@ -157,7 +157,7 @@ header.nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);backgroun
 /* ABOUT (O QUE É) */
 .about{padding:90px 0;border-top:1px solid var(--dp-borda)}
 .about-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:60px;align-items:center}
-.eyebrow{font-family:var(--fb);font-weight:700;font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:var(--dp-ambar);display:inline-flex;align-items:center;gap:12px;margin-bottom:18px}
+.eyebrow{font-family:var(--fb);font-weight:700;font-size:11px;letter-spacing:.28em;text-transform:uppercase;color:var(--dp-texto-blue);display:inline-flex;align-items:center;gap:12px;margin-bottom:18px}
 .eyebrow::before{content:"";width:32px;height:2px;background:var(--dp-ambar)}
 .about h2{font-size:clamp(2.4rem,4.5vw,3.6rem);font-weight:900;color:var(--dp-texto);margin-bottom:20px;line-height:1}
 .about h2 .hl{color:var(--dp-ambar)}
