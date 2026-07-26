@@ -61,9 +61,9 @@ const I18N={
   sol_eye:"Para quem está começando", sol_h2:"Você não precisa esperar seu consultório crescer para começar a construir sua marca.",
   sol_p1:"A Converte te ensina toda a estratégia para a construção da sua  presença digital, mas também mostra como se posicionar para atrair seus primeiros pacientes, apresentar seus serviços, fechar consultas e construir sua autoridade nesse mercado.",
 
-  dp_eye:"Depoimentos",
-  dp_h2:"Quem já colocou o consultório no digital",
-  dp_intro:"Médicos e clínicas que passaram a ser encontrados pelo paciente certo.",
+  dp_eye:"Resultados Reais",
+  dp_h2:"Profissionais da saúde já estão colocando nossa estratégia em prática",
+  dp_intro:"Veja como nossos clientes estão construindo marcas mais fortes, aumentando sua autoridade e criando uma comunicação que gera confiança, diferenciação e crescimento sustentável para seus consultórios e carreiras.",
   dp1_t:"Eu tinha só o Instagram e vivia respondendo a mesma pergunta no direct. Agora o paciente chega sabendo o valor da consulta e onde fica o consultório.",
   dp1_name:"Dra. Nome Sobrenome", dp1_role:"Dermatologia · Cidade, UF",
   dp2_t:"O que me convenceu foi eles entenderem o que o CFM permite e o que não permite. Já tinha recusado duas agências antes.",
