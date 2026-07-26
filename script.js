@@ -257,9 +257,9 @@ const I18N={
   port4_tag:"Pediatrics", port4_h:"Pediatric Clinic",
   port4_p:"Responsive site with dedicated parents area, interactive vaccination calendar and Google My Business integration. Google reviews went from 4.2 to 4.9 stars.",
 
-  proof_eye:"Why trust us", proof_h2:"Clear process, no black box",
-  proof_p1:"We're starting with a few selected clients, on purpose. You talk directly to people who understand healthcare, follow every step and approve everything before it goes live, always within CFM and LGPD.",
-  proof_p2:"We don't work with empty promises or inflated metrics. Every report shows what really matters: how many people saw your page, how many got in touch, and how many booked. Total transparency from start to finish.",
+  proof_eye:"Why trust us", proof_h2:"Professional Compliance",
+  proof_p1:"We develop websites and web pages using a structured methodology, prioritizing performance, security, and technical quality. Throughout the process, you can track the project’s progress and have a clear understanding of each milestone.",
+  proof_p2:"Projects developed in accordance with health council guidelines.",
   badge1_t:"LGPD", badge1_s:"Data protected",
   badge2_t:"Secure site", badge2_s:"SSL certificate included",
   badge3_t:"Digital security", badge3_s:"Digital asset protection",
