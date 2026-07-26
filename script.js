@@ -287,8 +287,8 @@ const I18N={
   plan_cta:"Talk on WhatsApp",
   plans_note:"No lock-in contract. No fine print. If you're not satisfied, we talk before anything else.",
 
-  faq_eye:"FAQ", faq_h2:"Questions every doctor asks",
-  faq_intro:"We gathered the most common questions from our free diagnoses. If yours isn't here, just hit us up on WhatsApp.",
+  faq_eye:"FAQ", faq_h2:"Frequently Asked Questions",
+  faq_intro:"",
   final_h2:'Ready to fill your <span class="hl">schedule</span>?',
   final_p:"Get a free diagnosis of your clinic's digital presence. We analyze your site, your social media and your Google positioning, and we show you, with no commitment, where the growth opportunities are.",
   perk1_t:"100% free", perk2_t:"In 24h",
