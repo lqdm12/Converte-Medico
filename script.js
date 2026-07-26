@@ -107,8 +107,8 @@ const I18N={
   badge3_t:"Segurança Digital", badge3_s:"Proteção dos ativos digitais",
   badge4_t:"Transparência", badge4_s:"Acompanhamento em todas as etapas",
 
-  price_eye:"Planos", price_h2:"Comece pequeno e cresça",
-  price_intro:"Escolha o ponto de partida. Sem fidelidade abusiva, com clareza do começo ao fim. Todos os planos incluem suporte humano e relatórios mensais.",
+  price_eye:"Planos", price_h2:"Soluções pensadas para cada etapa do seu crescimento.",
+  price_intro:"Do primeiro passo no digital à consolidação da sua marca, oferecemos planos personalizados para atender às necessidades do seu consultório.",
   plan1_n:"Essencial",
   plan1_d:"Uma landing page de alta conversão, conforme CFM, integrada ao seu WhatsApp. Ideal para quem está começando.",
   plan1_per:"projeto único",
