@@ -265,9 +265,8 @@ const I18N={
   badge3_t:"Digital security", badge3_s:"Digital asset protection",
   badge4_t:"Transparency", badge4_s:"Follow-up at every stage",
 
-  price_eye:"Plans", price_h2:"Start small and grow",
-  price_intro:"Choose your starting point. No abusive lock-ins, clear from start to finish. All plans include human support and monthly reports.",
-  plan1_n:"Essential",
+  price_eye:"Plans", price_h2:"Solutions designed for every stage of your growth",
+  price_intro:"From your first steps in the digital world to the consolidation of your brand, we offer customized plans to meet the needs of your practice.",
   plan1_d:"A high-converting landing page, CFM compliant, integrated with your WhatsApp. Ideal for those starting out.",
   plan1_per:"one-time project",
   plan1_f1:"Single optimized page", plan1_f2:"Copywriting that converts",
