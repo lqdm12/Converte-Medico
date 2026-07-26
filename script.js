@@ -99,9 +99,9 @@ const I18N={
   port4_tag:"Pediatria", port4_h:"Clínica Pediátrica",
   port4_p:"Site responsivo com área dedicada aos pais, calendário de vacinas interativo e integração com Google Meu Negócio. Avaliações no Google passaram de 4.2 para 4.9 estrelas.",
 
-  proof_eye:"Por que confiar", proof_h2:"Processo claro, sem caixa-preta",
-  proof_p1:"Estamos começando com poucos clientes selecionados, de propósito. Você fala direto com quem entende de saúde, acompanha cada etapa e aprova tudo antes de ir ao ar, sempre dentro do CFM e da LGPD.",
-  proof_p2:"Não trabalhamos com promessas vazias nem métricas infladas. Cada relatório mostra o que realmente importa: quantas pessoas viram sua página, quantas entraram em contato e quantas agendaram. Transparência total do início ao fim.",
+  proof_eye:"Por que confiar", proof_h2:"Conformidade profissional",
+  proof_p1:"Desenvolvemos sites e páginas com uma metodologia estruturada, priorizando desempenho, segurança e qualidade técnica. Durante todo o processo, você acompanha a evolução do projeto e tem clareza sobre cada entrega.",
+  proof_p2:"Projetos desenvolvidos considerando as diretrizes dos conselhos da saúde.",
   badge1_t:"LGPD", badge1_s:"Dados protegidos",
   badge2_t:"Site Seguro", badge2_s:"Certificado SSL incluso",
   badge3_t:"Segurança Digital", badge3_s:"Proteção dos ativos digitais",
