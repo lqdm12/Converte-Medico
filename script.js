@@ -130,8 +130,8 @@ const I18N={
   plan_cta:"Falar no WhatsApp",
   plans_note:"Não tem contrato de fidelidade. Não tem letra pequena. Se não estiver satisfeito, a gente conversa antes de qualquer coisa.",
 
-  faq_eye:"Dúvidas", faq_h2:"Perguntas que todo médico faz",
-  faq_intro:"Reunimos as dúvidas mais comuns que recebemos no diagnóstico gratuito. Se a sua não estiver aqui, é só chamar no WhatsApp.",
+  faq_eye:"FAQ", faq_h2:"Dúvidas Frequentes",
+  faq_intro:"",
   final_h2:'Vamos encher a sua <span class="hl">agenda</span>?',
   final_p:"Receba um diagnóstico gratuito da presença digital da sua clínica. Analisamos seu site, suas redes e seu posicionamento no Google, e te mostramos, sem compromisso, onde estão as oportunidades de crescimento.",
   perk1_t:"100% gratuito", perk2_t:"Em 24h",
