@@ -219,9 +219,9 @@ const I18N={
   sol_eye:"For those starting out", sol_h2:"You don't need to wait for your clinic to grow to start building your brand.",
   sol_p1:"Converte teaches you the full strategy for building your digital presence, but also shows how to position yourself to attract your first patients, present your services, close appointments and build your authority in the market.",
 
-  dp_eye:"Testimonials",
-  dp_h2:"Who already took their clinic digital",
-  dp_intro:"Doctors and clinics that started being found by the right patient.",
+  dp_eye:"Real Results",
+  dp_h2:"Healthcare professionals are already putting our strategy into practice",
+  dp_intro:"See how our clients are building stronger brands, increasing their authority, and creating communication that fosters trust, differentiation, and sustainable growth for their practices and careers.",
   dp1_t:"I only had Instagram and was answering the same DM over and over. Now the patient arrives knowing the consultation fee and where the office is.",
   dp1_name:"Dr. Jane Smith", dp1_role:"Dermatology · City, State",
   dp2_t:"What convinced me was that they understand what CFM allows and what it doesn't. I had already turned down two agencies before.",
