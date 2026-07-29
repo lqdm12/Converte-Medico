@@ -17,7 +17,7 @@ const I18N={
   stat1:"canais integrados", stat2:"conforme CFM", stat3:"prazo de entrega",
 
   trust1_t:"Fazemos seu orçamento", trust1_s:"Estratégia personalizada",
-  trust2_t:"Entrega em 7 dias", trust2_s:"Da assinatura ao ar",
+  trust2_t:"Entrega em 7 dias", trust2_s:"Da assinatura à entrega",
   trust3_t:"Conforme CFM", trust3_s:"Res. 2.336/2023",
 
   prob_eye:"O problema", prob_h2:"Sua agenda tem buracos?",
@@ -175,7 +175,7 @@ const I18N={
   stat1:"channels", stat2:"CFM compliant", stat3:"delivery time",
 
   trust1_t:"Clinical review", trust1_s:"Emilly validates everything",
-  trust2_t:"7-day delivery", trust2_s:"From signing to live",
+  trust2_t:"7-day delivery", trust2_s:"From signing to delivery",
   trust3_t:"CFM compliant", trust3_s:"Res. 2.336/2023",
 
   prob_eye:"The problem", prob_h2:"Does your schedule have gaps?",
