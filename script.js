@@ -14,7 +14,7 @@ const I18N={
   about_eye:"Sobre a Converte",
   about_h2:'O que é a <span class="hl">Converte Médico?</span>',
   about_p1:"A CONVERTE nasceu para transformar a presença digital de empresas e profissionais que desejam crescer de forma estratégica. Desenvolvemos sites profissionais, lojas virtuais (e-commerce) e landing pages de alta conversão, aliados a um gerenciamento de redes sociais e campanhas de tráfego pago para atrair, conquistar e fidelizar pacientes. Mais do que oferecer serviços de marketing, o propósito da CONVERTE  é criar estratégias personalizadas que fortalecem a identidade da sua marca, aumentam sua autoridade no mercado e impulsionam resultados reais.",
-  stat1:"canais integrados", stat2:"conforme CFM", stat3:"prazo de entrega",
+  stat1:"canais integrados", stat2:"Autarquia Federal", stat3:"prazo de entrega",
 
   trust1_t:"Fazemos seu orçamento", trust1_s:"Estratégia personalizada",
   trust2_t:"Entrega em 7 dias", trust2_s:"Da assinatura à entrega",
