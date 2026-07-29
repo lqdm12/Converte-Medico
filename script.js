@@ -132,7 +132,7 @@ const I18N={
 
   faq_eye:"FAQ", faq_h2:"Dúvidas Frequentes",
   faq_intro:"",
-  final_h2:'Vamos encher a sua <span class="hl">agenda</span>?',
+  final_h2:'Vamos lotar a sua <span class="hl">agenda</span>?',
   final_p:"Receba um diagnóstico gratuito da presença digital da sua clínica. Analisamos seu site, suas redes e seu posicionamento no Google, e te mostramos, sem compromisso, onde estão as oportunidades de crescimento.",
   perk1_t:"100% gratuito", perk2_t:"Em 24h",
   f_name_l:"Nome", f_spec_l:"Especialidade", f_wa_l:"WhatsApp",
@@ -289,7 +289,7 @@ const I18N={
 
   faq_eye:"FAQ", faq_h2:"Frequently Asked Questions",
   faq_intro:"",
-  final_h2:'Ready to fill your <span class="hl">schedule</span>?',
+  final_h2:'Let\'s fill up your <span class="hl">schedule</span>?',
   final_p:"Get a free diagnosis of your clinic's digital presence. We analyze your site, your social media and your Google positioning, and we show you, with no commitment, where the growth opportunities are.",
   perk1_t:"100% free", perk2_t:"In 24h",
   f_name_l:"Name", f_spec_l:"Specialty", f_wa_l:"WhatsApp",
