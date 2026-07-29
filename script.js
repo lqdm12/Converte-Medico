@@ -172,7 +172,7 @@ const I18N={
   about_eye:"About Converte",
   about_h2:'What is <span class="hl">Converte Médico?</span>',
   about_p1:"Converte Médico was created to help doctors and healthcare professionals strengthen their digital presence strategically, ethically, and with focus on results. We build professional websites, manage social media, and provide digital marketing consulting that connects brand positioning, authority, and new business opportunities.",
-  stat1:"channels", stat2:"CFM compliant", stat3:"delivery time",
+  stat1:"channels", stat2:"Federal Autonomous Region", stat3:"delivery time",
 
   trust1_t:"Clinical review", trust1_s:"Emilly validates everything",
   trust2_t:"7-day delivery", trust2_s:"From signing to delivery",
