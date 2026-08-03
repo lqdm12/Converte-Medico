@@ -18,7 +18,7 @@ const I18N={
 
   trust1_t:"Fazemos seu orçamento", trust1_s:"Estratégia personalizada",
   trust2_t:"Entrega em 7 dias", trust2_s:"Da assinatura à entrega",
-  trust3_t:"Conforme CFM", trust3_s:"Res. 2.336/2023",
+  trust3_t:"Atendimento direto", trust3_s:"Sem intermediário",
 
   prob_eye:"O problema", prob_h2:"Sua agenda tem buracos?",
   prob_intro:"A maioria dos pacientes conhece você pela internet antes de conhecê-lo pessoalmente. O que eles encontram pode ser o motivo para agendar, ou não, uma consulta.",
