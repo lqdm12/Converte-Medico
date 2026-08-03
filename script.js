@@ -128,7 +128,7 @@ const I18N={
   plan3_f3:"Estratégia dedicada", plan3_f4:"Acompanhamento próximo",
   plan3_f5:"Gestão completa de redes sociais", plan3_f6:"Consultoria mensal de posicionamento",
   plan_cta:"Falar no WhatsApp",
-  plans_note:"",
+  /*plans_note:"",*/
 
   faq_eye:"FAQ", faq_h2:"Dúvidas Frequentes",
   faq_intro:"",
@@ -285,7 +285,7 @@ const I18N={
   plan3_f3:"Dedicated strategy", plan3_f4:"Close follow-up",
   plan3_f5:"Complete social media management", plan3_f6:"Monthly positioning consulting",
   plan_cta:"Talk on WhatsApp",
-  plans_note:"",
+  /*plans_note:"",*/
 
   faq_eye:"FAQ", faq_h2:"Frequently Asked Questions",
   faq_intro:"",
