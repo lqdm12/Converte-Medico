@@ -176,7 +176,7 @@ const I18N={
 
   trust1_t:"Clinical review", trust1_s:"Emilly validates everything",
   trust2_t:"7-day delivery", trust2_s:"From signing to delivery",
-  trust3_t:"CFM compliant", trust3_s:"Res. 2.336/2023",
+  trust3_t:"Direct service", trust3_s:"No middleman",
 
   prob_eye:"The problem", prob_h2:"Does your schedule have gaps?",
   prob_intro:"You're excellent in the office. The problem is rarely the medicine. It's how patients find you, assess your credibility and decide to book. In the digital world, if you don't show up, you don't get remembered.",
